@@ -1,0 +1,12 @@
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Editory
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dočasné PHP soubory
+*.log
